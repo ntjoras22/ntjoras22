@@ -1,5 +1,5 @@
-![cover](cover.jpg)
-# Artic
+![cover](cover.png)
+# Arctic
 
 Curious....
 
