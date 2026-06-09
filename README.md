@@ -1,6 +1,6 @@
-# YourName
+# Artic
 
-Learning always.
+Curious....
 
 ---
 
