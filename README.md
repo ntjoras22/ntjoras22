@@ -1,3 +1,4 @@
+![cover](cover.jpg)
 # Artic
 
 Curious....
