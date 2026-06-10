@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Arctic 👋</h1>
 
 <p align="center">
-  <em>AI/ML Enthusiast &nbsp;·&nbsp; Python &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Computer Vision</em>
+  <em>AI/ML Enthusiast &nbsp;·&nbsp; Python &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Data</em>
 </p>
 
 <p align="center">
